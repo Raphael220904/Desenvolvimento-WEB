@@ -7,7 +7,7 @@ const func2 = function(a, b){
 }
 
 const func3 = () => {
-    return "bonito";
+    return "func3";
 }
 
 const minha_lista = [25, "casa"];
